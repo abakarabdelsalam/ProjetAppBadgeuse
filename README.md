@@ -1,2 +1,2 @@
 # ProjetAppBadgeuse
-Projet AppBadgeuse
+Projet scolaire AppBadgeuse
