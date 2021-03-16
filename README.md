@@ -1,2 +1,0 @@
-# ProjetAppBadgeuse
-Projet AppBadgeuse
